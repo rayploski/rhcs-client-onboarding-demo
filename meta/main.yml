@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: Ray Ploski
+  description: A client onboarding process driven appiication that shows full end to end flow with custom developed applications for each different users participating in the workflow, container deployment targeting OpenShift Container Platform.
+  company: Red Hat
+  license: AFL v3.0
+  min_ansible_version: 1.8
+  platforms:
+  - name: Java
+    versions:
+    - 1.6
+    - 1.7
+#- Categories are really tags within Galaxy
+  categories:
+  - middleware
+  - rhoar
+  - microservice
+  - kubernetes
+  - jBPM
+dependencies: []
+allow_duplicates: yes
